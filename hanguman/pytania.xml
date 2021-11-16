@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<kategoria>
+	<film>
+		<slowo>Piraci z karaibow</slowo>
+		<slowo>Diuna</slowo>
+		<slowo>Ósmy pasażer nostromo</slowo>
+		<slowo>Avengers Endgame</slowo>
+		<slowo>Skazani na Shawshank</slowo>
+		<slowo>Ojciec chrzestny</slowo>
+		<slowo>Pulp fiction</slowo>
+		<slowo>Wladca pierscienie druzyna pierscienia</slowo>
+		<slowo>Matrix</slowo>
+		<slowo>Interstellar</slowo>
+	</film>
+		
+	<serial>
+		<slowo>breaking bad</slowo>
+		<slowo>walking dead</slowo>
+		<slowo>rick and Morty</slowo>
+		<slowo>dom z papieru</slowo>
+		<slowo>arcane</slowo>
+		<slowo>świat według kiepskich</slowo>
+		<slowo>ranczo</slowo>
+		<slowo>squid Game</slowo>
+		<slowo>castlevania</slowo>
+		<slowo>black mirror</slowo>
+
+	</serial>
+		
+	<gra>
+		<slowo >mass effect</slowo>
+		<slowo >dying Light</slowo>
+		<slowo >cyberbug 2077</slowo>
+		<slowo >fortnite</slowo>
+		<slowo >league of legends</slowo>
+		<slowo >apex legends</slowo>
+		<slowo >darkest dungeon</slowo>
+		<slowo >borderlands</slowo>
+		<slowo >far cry</slowo>
+		<slowo >battlefield 2042</slowo>
+
+	</gra>
+		
+	<ksiazka>
+		<slowo>Metro 2033</slowo>
+		<slowo>To</slowo>
+		<slowo>Lalka</slowo>
+		<slowo>Wiedźmin</slowo>
+		<slowo>Krzyżacy</slowo>
+		<slowo>Mgły Avalonu</slowo>
+		<slowo>Zbrodnia i kara</slowo>
+		<slowo>Przepaść</slowo>
+		<slowo>Córka głębin</slowo>
+		<slowo>Pustynny książę</slowo>
+
+	</ksiazka>
+
+	<przedmiot>
+		<slowo>łyżka</slowo>
+		<slowo>pistolet</slowo>
+		<slowo>nóz</slowo>
+		<slowo>but</slowo>
+		<slowo>samolot</slowo>
+		<slowo>dynamit</slowo>
+		<slowo>okno</slowo>
+		<slowo>butelka</slowo>
+		<slowo>słoik</slowo>
+		<slowo>telewizor</slowo>
+
+
+	</przedmiot>
+</kategoria>
+		
+
